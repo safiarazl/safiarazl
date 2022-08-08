@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Safiar</h1>
-<h3 align="center">An undergraduate student in Informatics Engineering, Dian Nuswantoro University Semarang. I have an
+<p align="center">An undergraduate student in Informatics Engineering, Dian Nuswantoro University Semarang. I have an
     interest in technologies such as Full-Stack Developer and Artificial Intelligence, therefore I want to learn a lot
-    about both. I am a responsible person and eager to explore new things.</h3>
+    about both. I am a responsible person and eager to explore new things.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safiarazl&label=Profile%20views&color=0e75b6&style=flat"
         alt="safiarazl" /> </p>
