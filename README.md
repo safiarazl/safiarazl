@@ -62,9 +62,16 @@ Badge](https://img.shields.io/badge/-safiarfial@gmail.com-c14438?style=for-the-b
             height="40" /> </a>
 </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=safiarazl&show_icons=true&locale=en&layout=compact"
-        alt="safiarazl" /></p>
+<p>
+    <tr>
+
+        <td><img
+                src="https://github-readme-stats.vercel.app/api?username=safiarazl&show_icons=true&hide_border=true&theme=radical&layout=compact" />
+        </td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safiarazl&&layout=compact&langs_count=8&theme=radical&hide_border=true"
+                height="195" /></td>
+    </tr>
+</p>
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=safiarazl&show_icons=true&locale=en" alt="safiarazl" />
