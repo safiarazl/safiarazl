@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **safiarfial@gmail.com**
 
+<img src="https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.svg">
+
 <h3 align="left">Connect with me:</h3>
 [![Linkedin
 Badge](https://img.shields.io/badge/SafiarAzalia-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/safiar-azalia-091828169/)](https://www.linkedin.com/in/safiar-azalia-091828169/)
@@ -63,18 +65,11 @@ Badge](https://img.shields.io/badge/-safiarfial@gmail.com-c14438?style=for-the-b
 </p>
 
 <p>
-    <tr>
-
-        <td><img
-                src="https://github-readme-stats.vercel.app/api?username=safiarazl&show_icons=true&hide_border=true&theme=radical&layout=compact" />
-        </td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safiarazl&&layout=compact&langs_count=8&theme=radical&hide_border=true"
-                height="195" /></td>
-    </tr>
-</p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=safiarazl&show_icons=true&locale=en" alt="safiarazl" />
+  <tr>
+    
+<td><img src="https://github-readme-stats.vercel.app/api?username=safiarazl&show_icons=true&hide_border=true&theme=radical&layout=compact" /></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safiarazl&&layout=compact&langs_count=8&theme=radical&hide_border=true" height="195"/></td>
+  </tr>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiarazl&" alt="safiarazl" /></p>
