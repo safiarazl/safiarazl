@@ -3,21 +3,16 @@
     interest in technologies such as Full-Stack Developer and Artificial Intelligence, therefore I want to learn a lot
     about both. I am a responsible person and eager to explore new things.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safiarazl&label=Profile%20views&color=0e75b6&style=flat"
-        alt="safiarazl" /> </p><br>
-
 <h3 align="left">Connect with me:</h3>
 
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/safiar-azalia-091828169/)
 [![Instagram](https://img.shields.io/badge/Instagram-0e76a8?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fial_azl/)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-0e76a8?style=for-the-badge&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/h111202012715?hr_r=1)
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=safiarazl" alt="safiarazl" /></a> </p> -->
-
-
 - 📫 How to reach me **safiarfial@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=safiarazl&label=Profile%20views&color=0e75b6&style=flat"
+        alt="safiarazl" /> </p><br>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 <h3 align="left">Languages and Tools:</h3>
