@@ -14,11 +14,6 @@
 
 <img src="https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.svg">
 
-<h3 align="left">Connect with me:</h3>
-[![Linkedin Badge](https://img.shields.io/badge/SafiarAzalia-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/safiar-azalia-091828169/)](https://www.linkedin.com/in/safiar-azalia-091828169/)
-[![Instagram Badge](https://img.shields.io/badge/@fial_azl-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/fial_azl/)](https://www.instagram.com/fial_azl/)
-[![Gmail Badge](https://img.shields.io/badge/-safiarfial@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:safiarfial@gmail.com)](mailto:safiarfial@gmail.com)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
