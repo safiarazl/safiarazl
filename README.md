@@ -11,6 +11,7 @@
 
 
 - 📫 How to reach me **safiarfial@gmail.com**
+[![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/safiar-azalia-091828169/)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
