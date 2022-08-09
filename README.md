@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-0e76a8?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fial_azl/)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-0e76a8?style=for-the-badge&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/h111202012715?hr_r=1)
 
-📫 How to reach me: email me at [safiarfial@gmail.com](safiarfial@gmail.com).
+📫 How to reach me: email me at [safiarfial@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=safiarfial@gmail.com&su=&body=).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safiarazl&label=Profile%20views&color=0e75b6&style=flat"
         alt="safiarazl" /> </p><br>
