@@ -1,7 +1,5 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=2000&pause=500&lines=Hi+there!%F0%9F%91%8B;I'm+Safiar%2C+Great+seeing+you!%F0%9F%91%8C" alt="Typing SVG" /></p>
-<p align="center">An undergraduate student in Informatics Engineering. I have an
-    interest in technologies such as Full-Stack Developer and Artificial Intelligence, therefore I want to learn a lot
-    about both. I am a responsible person and eager to explore new things.</p>
+<p align="center">An undergraduate student in the field of Informatics Engineering. I have an interest in technologies such as Full-Stack Developer and Artificial Intelligence, therefore I want to learn a lot about both. I am a responsible person and eager to explore new things.</p>
 
 <h3 align="left">Connect with me:</h3>
 
